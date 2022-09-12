@@ -7,13 +7,25 @@
 header{
     background-image: url(../img/pattern.png);
     background-color:rgba(78, 160, 255, 1);
-    background-size: 25%;
+    background-size: 48%;
     background-repeat: repeat-x;
     height:auto ; 
 }
 
 header img{
-    width: 15%;
-    margin-top:20px ;
+    width: 28%;
+    margin-top:30px ;
     padding-left: 5px;
+}
+
+.scritto, .data{
+    color: gray;
+}
+
+.redazione{
+    color: rgb(47, 216, 242);
+}
+
+.Berners_img,.tim1_img, .tim2_img{
+    width: auto;
 }
